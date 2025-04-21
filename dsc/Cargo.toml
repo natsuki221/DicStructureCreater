@@ -1,7 +1,16 @@
 [package]
-name = "dsc"
+name = "dic-structure-creater"
 version = "0.1.0"
 edition = "2024"
+description = "A CLI tool that reads tree-structured text files and generates folders and files accordingly."
+license = "MIT"
+repository = "https://github.com/natsuki221/DicStructureCreater"
+homepage = "https://github.com/natsuki221/DicStructureCreater"
+documentation = "https://docs.rs/dic-structure-creater"
+readme = "README.md"
+keywords = ["cli", "filesystem", "tree", "tool", "generator"]
+categories = ["command-line-utilities"]
+authors = ["Tzu Jeng <linnatsuki221@gmail.com>"]
 
 [dependencies]
 clap = { version = "4", features = ["derive"] }
