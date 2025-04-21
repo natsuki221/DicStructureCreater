@@ -1,3 +1,5 @@
+![Logo](/docs/logo.png)
+
 # DicStructureCreater
 
 ![Release](https://img.shields.io/github/v/release/natsuki221/DicStructureCreater)
