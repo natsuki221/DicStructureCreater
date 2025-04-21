@@ -2,9 +2,10 @@
 
 # DicStructureCreater
 
-![Release](https://img.shields.io/github/v/release/natsuki221/DicStructureCreater)
+![Crates.io](https://img.shields.io/crates/v/dic-structure-creater)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Stars](https://img.shields.io/github/stars/natsuki221/DicStructureCreater)
+![Downloads](https://img.shields.io/crates/dr/dic-structure-creater)
 
 一款輕量、跨平台的 CLI 工具，可以自動解析 `.txt`/`.md` 中的樹狀結構，並在指定根目錄下生成對應的資料夾與空檔案。預設不會覆蓋既有檔案，並支援預覽 (`--dry-run`) 及強制覆蓋 (`--overwrite`)。
 

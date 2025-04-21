@@ -1,8 +1,9 @@
 # DicStructureCreater
 
-![Release](https://img.shields.io/github/v/release/natsuki221/DicStructureCreater)
+![Crates.io](https://img.shields.io/crates/v/dic-structure-creater)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Stars](https://img.shields.io/github/stars/natsuki221/DicStructureCreater)
+![Downloads](https://img.shields.io/crates/dr/dic-structure-creater)
 
 DicStructureCreater is a lightweight, cross-platform CLI tool that parses directory structures from `.txt` or `.md` files and generates corresponding folders and files under a specified root directory. By default, it avoids overwriting existing files, and supports dry-run (`--dry-run`) and force overwrite (`--overwrite`) modes.
 
